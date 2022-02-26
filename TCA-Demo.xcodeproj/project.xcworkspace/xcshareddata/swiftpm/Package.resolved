@@ -1,0 +1,160 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ApiClient",
+        "repositoryURL": "git@github.com:Papershift/API-Client-iOS.git",
+        "state": {
+          "branch": "main",
+          "revision": "78010a02a0b23dfc3443b4f70314129d57b65068",
+          "version": null
+        }
+      },
+      {
+        "package": "BetterCodable",
+        "repositoryURL": "https://github.com/marksands/BetterCodable.git",
+        "state": {
+          "branch": null,
+          "revision": "61153170668db7a46a20a87e35e70f80b24d4eb5",
+          "version": "0.4.0"
+        }
+      },
+      {
+        "package": "HandySwift",
+        "repositoryURL": "https://github.com/Flinesoft/HandySwift.git",
+        "state": {
+          "branch": null,
+          "revision": "5d6a6df5232eff28f9f71048e5745706d02be1f8",
+          "version": "3.4.0"
+        }
+      },
+      {
+        "package": "HandySwiftUI",
+        "repositoryURL": "https://github.com/Flinesoft/HandySwiftUI.git",
+        "state": {
+          "branch": "main",
+          "revision": "039ef2d217a6a1a65c18567abc98d5a2311dca6c",
+          "version": null
+        }
+      },
+      {
+        "package": "Microya",
+        "repositoryURL": "https://github.com/Flinesoft/Microya.git",
+        "state": {
+          "branch": "main",
+          "revision": "5e6fcea0ebb83cca93ea7bdf7b3a2192bdbbfd8c",
+          "version": null
+        }
+      },
+      {
+        "package": "SFSafeSymbols",
+        "repositoryURL": "https://github.com/piknotech/SFSafeSymbols.git",
+        "state": {
+          "branch": null,
+          "revision": "c61de7a6e9eb1520d32316b06d5932accd974e70",
+          "version": "2.1.3"
+        }
+      },
+      {
+        "package": "swift-case-paths",
+        "repositoryURL": "https://github.com/pointfreeco/swift-case-paths",
+        "state": {
+          "branch": null,
+          "revision": "241301b67d8551c26d8f09bd2c0e52cc49f18007",
+          "version": "0.8.0"
+        }
+      },
+      {
+        "package": "swift-collections",
+        "repositoryURL": "https://github.com/apple/swift-collections",
+        "state": {
+          "branch": null,
+          "revision": "48254824bb4248676bf7ce56014ff57b142b77eb",
+          "version": "1.0.2"
+        }
+      },
+      {
+        "package": "swift-composable-architecture",
+        "repositoryURL": "https://github.com/pointfreeco/swift-composable-architecture",
+        "state": {
+          "branch": null,
+          "revision": "ba9c626ab1b2b6af8cf684eebb2ab472fa5b6753",
+          "version": "0.33.1"
+        }
+      },
+      {
+        "package": "swift-custom-dump",
+        "repositoryURL": "https://github.com/pointfreeco/swift-custom-dump",
+        "state": {
+          "branch": null,
+          "revision": "51698ece74ecf31959d3fa81733f0a5363ef1b4e",
+          "version": "0.3.0"
+        }
+      },
+      {
+        "package": "swift-identified-collections",
+        "repositoryURL": "https://github.com/pointfreeco/swift-identified-collections",
+        "state": {
+          "branch": null,
+          "revision": "680bf440178a78a627b1c2c64c0855f6523ad5b9",
+          "version": "0.3.2"
+        }
+      },
+      {
+        "package": "SnapshotTesting",
+        "repositoryURL": "https://github.com/pointfreeco/swift-snapshot-testing.git",
+        "state": {
+          "branch": null,
+          "revision": "f8a9c997c3c1dab4e216a8ec9014e23144cbab37",
+          "version": "1.9.0"
+        }
+      },
+      {
+        "package": "Introspect",
+        "repositoryURL": "https://github.com/siteline/SwiftUI-Introspect.git",
+        "state": {
+          "branch": null,
+          "revision": "f2616860a41f9d9932da412a8978fec79c06fe24",
+          "version": "0.1.4"
+        }
+      },
+      {
+        "package": "SwiftyJSON",
+        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON",
+        "state": {
+          "branch": null,
+          "revision": "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
+          "version": "5.0.1"
+        }
+      },
+      {
+        "package": "SwiftyUserDefaults",
+        "repositoryURL": "https://github.com/sunshinejr/SwiftyUserDefaults.git",
+        "state": {
+          "branch": null,
+          "revision": "f66bcd04088582c8fbb5cb8554d577e303bae396",
+          "version": "5.3.0"
+        }
+      },
+      {
+        "package": "Valet",
+        "repositoryURL": "https://github.com/Papershift/Valet",
+        "state": {
+          "branch": "master",
+          "revision": "048072ab03c773e2220a156703c334ebcd6eeee6",
+          "version": null
+        }
+      },
+      {
+        "package": "xctest-dynamic-overlay",
+        "repositoryURL": "https://github.com/pointfreeco/xctest-dynamic-overlay",
+        "state": {
+          "branch": null,
+          "revision": "50a70a9d3583fe228ce672e8923010c8df2deddd",
+          "version": "0.2.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

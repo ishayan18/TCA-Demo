@@ -1,2 +1,3 @@
-# TCA-Demo
-Exploring the composable architecture with SwiftUI 
+# Inventory
+
+A description of this package.

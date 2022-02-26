@@ -1,0 +1,97 @@
+ {
+  "meta" : {
+    "current_page" : 1,
+    "total_pages" : 1,
+    "git_commit" : "",
+    "page_items" : 25,
+    "total_count" : 1,
+    "link" : 0
+  },
+  "data" : [
+    {
+      "id" : "121",
+      "relationships" : {
+        "areas" : {
+          "data" : [
+            {
+              "id" : "180",
+              "type" : "area"
+            }
+          ]
+        }
+      },
+      "type" : "workspace",
+      "attributes" : {
+        "working_session_confirm_default" : false,
+        "show_edit_time_tracking_modal_on_end" : false,
+        "agenda_view_slot_duration_min" : 30,
+        "users_available" : true,
+        "apply_on_full_shift" : false,
+        "prevent_applications" : false,
+        "time_zone" : "Berlin",
+        "show_unconfirmed_absences_in_absence_calendar" : true,
+        "agenda_view_min_time" : null,
+        "allow_drag_drop_events_calender_basic_views" : true,
+        "nav_time_trackings" : true,
+        "enable_confirm_assignments" : false,
+        "nav_availabilities" : true,
+        "nav_calendar" : true,
+        "avatar" : "\/avatars\/original\/missing.png",
+        "min_punch_clock_pause" : true,
+        "assignment_sorting_orders" : "applications,least_assignments_in_week",
+        "assign_automatically_with_rest_period" : true,
+        "allow_use_of_employee_app" : false,
+        "slot_event_overlap_weekly" : true,
+        "calculate_auto_break_based_on_net_duration" : false,
+        "signature" : null,
+        "auto_confirm_admin_absences" : false,
+        "user_checkin" : null,
+        "auto_confirm_employee_absences" : false,
+        "show_edit_time_tracking_modal_on_end_pause" : false,
+        "name" : "Papertest",
+        "locale" : "de",
+        "browser_stamps_is_default_working_session_mode" : false,
+        "allow_employees_edit_working_session_area" : true,
+        "permissions" : null,
+        "consider_applications" : false,
+        "slot_event_overlap_daily" : true,
+        "show_rejected_absences_in_calendar" : false,
+        "show_edit_time_tracking_modal_on_start" : false,
+        "allow_occupy_on_full_shifts" : false,
+        "agenda_view_row_height_override" : null,
+        "allow_employee_edit_punched_working_sessions" : true,
+        "hide_assignments_for_employees" : false,
+        "forbid_shift_trade" : false,
+        "employees_can_see_all_working_areas" : false,
+        "user_quick_add_enabled" : true,
+        "punch_end_plan_limited" : false,
+        "show_confirmed_absences_in_absence_calendar" : true,
+        "allow_employees_create_tags" : false,
+        "allow_employees_tag_working_sessions" : false,
+        "allow_tag_assignment" : true,
+        "rest_period" : 11,
+        "hide_absence_type_and_status" : false,
+        "user_checkin_greeting" : null,
+        "punch_start_plan_limited" : false,
+        "ignore_target_hour_limit" : false,
+        "hide_user_hours" : false,
+        "agenda_view_enlarge_events" : false,
+        "client_number" : null,
+        "applications_visible_for_employees" : false,
+        "event_break_module" : false,
+        "nav_messages" : true,
+        "employee_gantt" : true,
+        "phone" : null,
+        "show_edit_time_tracking_modal_on_start_pause" : false,
+        "calc_evaluation_when_holidays_changed_for_past" : false,
+        "ip_adresses" : "",
+        "max_punch_clock_dur" : null,
+        "external_id" : null,
+        "sum_trackings" : true,
+        "agenda_view_max_time" : null,
+        "nav_absences" : true,
+        "show_applications_in_resource_view" : false
+      }
+    }
+  ]
+}

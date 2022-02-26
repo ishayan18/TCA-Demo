@@ -1,0 +1,14 @@
+{
+ "meta" : {
+   "git_commit" : ""
+ },
+ "data" : {
+   "id" : "0dfded86-2cb0-4645-bafa-31c3bfaa7fa9",
+   "type" : "token",
+   "attributes" : {
+     "token_type" : "Bearer",
+     "expires_in" : null,
+     "access_token" : "eyJhbGciOiJIUzI1NiJ9.eyJ1dWlkIjoiOTI2Y2Y2ZGMtYTA2Zi00YzA5LTk5ZGItNTcxMGY5ZDc3NWZjIiwic3ViIjoiMTI0MSIsInNjcCI6InVzZXIiLCJhdWQiOm51bGwsImlhdCI6MTYyNjM1MDgxMSwiZXhwIjozMjA0MTk4NDExLCJqdGkiOiI2NzViYmE0YS0zMzk0LTRkYjMtYWEwZC1iMzQ4NzdjMDI0YjQifQ.7KYUvCqEyQ9hFQC1pFVp8xFOzmeEq44uEa9G73fawmo"
+   }
+ }
+}
