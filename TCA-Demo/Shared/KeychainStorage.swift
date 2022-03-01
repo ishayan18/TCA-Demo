@@ -16,17 +16,12 @@ final class KeychainStorage {
     /// The currently signed in users access token. Type: `String`
     case accessToken
 
-    /// The currently signed in users ID. Type: `String`
-    case userId
-
     /// The currently signed in users related account ID. Type: `String`
     case accountId
 
     /// The currently selected workspace ID. Type: `String`
     case workspaceId
 
-    /// The minimum required employee data for offline usage. Type: `[PersistedEmployee]`
-    case employees
   }
 
   /// The standard object to be used in the app.

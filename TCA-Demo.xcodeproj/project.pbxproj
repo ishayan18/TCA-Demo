@@ -52,9 +52,7 @@
 		E46A7E8F27CA0FE000DBDD1C /* LoginBoxView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46A7E8827CA0FE000DBDD1C /* LoginBoxView.swift */; };
 		E46A7E9027CA0FE000DBDD1C /* ViewExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = E46A7E8927CA0FE000DBDD1C /* ViewExt.swift */; };
 		E4B8197F27C7F2260041997B /* AppEnvExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B8197E27C7F2260041997B /* AppEnvExt.swift */; };
-		E4B8198327C810930041997B /* Storage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B8198227C810930041997B /* Storage.swift */; };
 		E4B8198C27C818400041997B /* HandySwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = E4B8198B27C818400041997B /* HandySwiftUI */; };
-		E4B8198F27C8238E0041997B /* ApiClient in Frameworks */ = {isa = PBXBuildFile; productRef = E4B8198E27C8238E0041997B /* ApiClient */; };
 		E4B8199127C824DE0041997B /* ApiProviderExt.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B8199027C824DE0041997B /* ApiProviderExt.swift */; };
 		E4B8199427C82CF10041997B /* Valet in Frameworks */ = {isa = PBXBuildFile; productRef = E4B8199327C82CF10041997B /* Valet */; };
 		E4B8199927C82E6B0041997B /* KeychainStorage.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4B8199827C82E6B0041997B /* KeychainStorage.swift */; };
@@ -120,7 +118,6 @@
 		E46A7E8A27CA0FE000DBDD1C /* FocusableField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FocusableField.swift; sourceTree = "<group>"; };
 		E46A7E8B27CA0FE000DBDD1C /* Spacing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacing.swift; sourceTree = "<group>"; };
 		E4B8197E27C7F2260041997B /* AppEnvExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppEnvExt.swift; sourceTree = "<group>"; };
-		E4B8198227C810930041997B /* Storage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Storage.swift; sourceTree = "<group>"; };
 		E4B8199027C824DE0041997B /* ApiProviderExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiProviderExt.swift; sourceTree = "<group>"; };
 		E4B8199827C82E6B0041997B /* KeychainStorage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeychainStorage.swift; sourceTree = "<group>"; };
 		E4B8199D27C82F230041997B /* DefaultKeysExt.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefaultKeysExt.swift; sourceTree = "<group>"; };
@@ -138,7 +135,6 @@
 				E4B8199C27C82EDC0041997B /* SwiftyUserDefaults in Frameworks */,
 				E4B8199427C82CF10041997B /* Valet in Frameworks */,
 				E43E4E3F27C6D41500987291 /* SFSafeSymbols in Frameworks */,
-				E4B8198F27C8238E0041997B /* ApiClient in Frameworks */,
 				E43E4E3727C6D37B00987291 /* ComposableArchitecture in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -348,7 +344,6 @@
 				E46A7E8B27CA0FE000DBDD1C /* Spacing.swift */,
 				E46A7E8927CA0FE000DBDD1C /* ViewExt.swift */,
 				E4B819A827C84FB80041997B /* ProgressOverlay.swift */,
-				E4B8198227C810930041997B /* Storage.swift */,
 				E4B8199827C82E6B0041997B /* KeychainStorage.swift */,
 				E4B8199F27C838240041997B /* NetworkRequestModifier.swift */,
 				E4B819AD27C8516E0041997B /* ServerUrls.swift */,
@@ -383,7 +378,6 @@
 				E43E4E3627C6D37B00987291 /* ComposableArchitecture */,
 				E43E4E3E27C6D41500987291 /* SFSafeSymbols */,
 				E4B8198B27C818400041997B /* HandySwiftUI */,
-				E4B8198E27C8238E0041997B /* ApiClient */,
 				E4B8199327C82CF10041997B /* Valet */,
 				E4B8199B27C82EDC0041997B /* SwiftyUserDefaults */,
 			);
@@ -445,7 +439,6 @@
 				E43E4E3827C6D3AA00987291 /* XCRemoteSwiftPackageReference "swift-snapshot-testing" */,
 				E43E4E3D27C6D41500987291 /* XCRemoteSwiftPackageReference "SFSafeSymbols" */,
 				E4B8198A27C818400041997B /* XCRemoteSwiftPackageReference "HandySwiftUI" */,
-				E4B8198D27C8238E0041997B /* XCRemoteSwiftPackageReference "API-Client-iOS" */,
 				E4B8199227C82CF10041997B /* XCRemoteSwiftPackageReference "Valet" */,
 				E4B8199A27C82EDC0041997B /* XCRemoteSwiftPackageReference "SwiftyUserDefaults" */,
 			);
@@ -495,7 +488,6 @@
 			files = (
 				E4B819A927C84FB80041997B /* ProgressOverlay.swift in Sources */,
 				E43E4E0E27C6D28B00987291 /* LoginView.swift in Sources */,
-				E4B8198327C810930041997B /* Storage.swift in Sources */,
 				E461DC9A27C6E6FD007C89D6 /* LoginStore.swift in Sources */,
 				E46A7E8F27CA0FE000DBDD1C /* LoginBoxView.swift in Sources */,
 				E4B819AE27C8516E0041997B /* ServerUrls.swift in Sources */,
@@ -738,7 +730,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TCA-Demo.app/TCA-Demo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TCA Demo.app/TCA Demo";
 			};
 			name = Debug;
 		};
@@ -757,7 +749,7 @@
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TCA-Demo.app/TCA-Demo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TCA Demo.app/TCA Demo";
 			};
 			name = Release;
 		};
@@ -826,14 +818,6 @@
 				kind = branch;
 			};
 		};
-		E4B8198D27C8238E0041997B /* XCRemoteSwiftPackageReference "API-Client-iOS" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "git@github.com:Papershift/API-Client-iOS.git";
-			requirement = {
-				branch = main;
-				kind = branch;
-			};
-		};
 		E4B8199227C82CF10041997B /* XCRemoteSwiftPackageReference "Valet" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/Papershift/Valet";
@@ -872,11 +856,6 @@
 			isa = XCSwiftPackageProductDependency;
 			package = E4B8198A27C818400041997B /* XCRemoteSwiftPackageReference "HandySwiftUI" */;
 			productName = HandySwiftUI;
-		};
-		E4B8198E27C8238E0041997B /* ApiClient */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = E4B8198D27C8238E0041997B /* XCRemoteSwiftPackageReference "API-Client-iOS" */;
-			productName = ApiClient;
 		};
 		E4B8199327C82CF10041997B /* Valet */ = {
 			isa = XCSwiftPackageProductDependency;

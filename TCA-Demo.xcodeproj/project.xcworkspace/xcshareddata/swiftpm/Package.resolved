@@ -2,21 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "ApiClient",
-        "repositoryURL": "git@github.com:Papershift/API-Client-iOS.git",
-        "state": {
-          "branch": "main",
-          "revision": "78010a02a0b23dfc3443b4f70314129d57b65068",
-          "version": null
-        }
-      },
-      {
-        "package": "BetterCodable",
-        "repositoryURL": "https://github.com/marksands/BetterCodable.git",
+        "package": "combine-schedulers",
+        "repositoryURL": "https://github.com/pointfreeco/combine-schedulers",
         "state": {
           "branch": null,
-          "revision": "61153170668db7a46a20a87e35e70f80b24d4eb5",
-          "version": "0.4.0"
+          "revision": "4cf088c29a20f52be0f2ca54992b492c54e0076b",
+          "version": "0.5.3"
         }
       },
       {
@@ -34,15 +25,6 @@
         "state": {
           "branch": "main",
           "revision": "039ef2d217a6a1a65c18567abc98d5a2311dca6c",
-          "version": null
-        }
-      },
-      {
-        "package": "Microya",
-        "repositoryURL": "https://github.com/Flinesoft/Microya.git",
-        "state": {
-          "branch": "main",
-          "revision": "5e6fcea0ebb83cca93ea7bdf7b3a2192bdbbfd8c",
           "version": null
         }
       },
@@ -116,15 +98,6 @@
           "branch": null,
           "revision": "f2616860a41f9d9932da412a8978fec79c06fe24",
           "version": "0.1.4"
-        }
-      },
-      {
-        "package": "SwiftyJSON",
-        "repositoryURL": "https://github.com/SwiftyJSON/SwiftyJSON",
-        "state": {
-          "branch": null,
-          "revision": "b3dcd7dbd0d488e1a7077cb33b00f2083e382f07",
-          "version": "5.0.1"
         }
       },
       {
