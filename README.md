@@ -1,3 +1,3 @@
-# Inventory
+# This demo is all about exploring The Composable Architecture
 
-A description of this package.
+Simple login app to demonstrate TCA implementation 
